@@ -1,5 +1,5 @@
 # Flutter Tutorial - QR Code Scanner App
-[![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
+<!-- [![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![Newsletter](https://img.shields.io/static/v1?label=Follow&message=My%20Flutter%20Newsletter&color=5FB709&style=for-the-badge)][newsletter]
 
@@ -54,4 +54,4 @@ alt="Flutter Tutorial - QR Code Scanner App YouTube video" width="480" border="1
 [youtube]: https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1
 [courses]: https://johannesmilke.teachable.com/p/home
 [newsletter]: https://johannesmilke.com/newsletter
-[sponsor]: https://github.com/sponsors/JohannesMilke
+[sponsor]: https://github.com/sponsors/JohannesMilke -->
